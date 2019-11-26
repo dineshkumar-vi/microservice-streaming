@@ -7,15 +7,15 @@
 
 ## Tech Stack
 
-- [][Java]
-- [][Spring Boot]
-- [][Rx Java]
-- [][Gcloud]
-- [][Kafka]
-- [][Docker]
+- Java
+- Spring Boot
+- Rx Java
+- Gcloud
+- Kafka
+- Docker
 
 
 
-## API First Approach
+## Approach
 
 ![Alt text](/spec/Api.streaming.jpg?raw=true "File Streaming")
